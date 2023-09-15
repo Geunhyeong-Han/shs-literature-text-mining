@@ -1,0 +1,1 @@
+# Textmining_for_understanding_SmartHomeService
