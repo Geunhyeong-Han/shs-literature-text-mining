@@ -3,8 +3,7 @@
 This repository provides the reproducible structure of the analysis workflow used in the manuscript.
 
 ## Research Objective
-- [Write 2-4 sentences describing the objective of this study.]
-- [Example: This study applies text mining to smart home service literature to identify major research topics and inter-topic relationships.]
+- This study aims to analyze smart home service literature using text mining methods.
 
 ## Research Workflow
 The analysis is conducted in the following four stages:
@@ -36,3 +35,6 @@ The analysis is conducted in the following four stages:
 ## Scope Note
 Only the core reproducible workflow and search strategy are shared in this public repository.  
 Intermediate artifacts and extended outputs are intentionally minimized.
+
+## Research Result Folder
+The `research result` folder contains the dataset used in this study, the extracted keywords, and the topic extraction results.
